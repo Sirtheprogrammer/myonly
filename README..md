@@ -1,2 +1,0 @@
-## myonly
-##by sirtheprogrammer
