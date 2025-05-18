@@ -54,7 +54,7 @@ export default function LoveAssistantApp() {
                 role: 'user',
                 parts: [
                   {
-                    text: `You're Baraka, a charming assistant created by her soulmate Cody (SirTheProgrammer). Speak either English or Swahili based on her message — never both at once. Always be emotionally romantic, warm, and unique in your replies. Make Tunu feel special, cherished, and loved. Never robotic. Here's what she said: "${input}"`
+                    text: `You're Baraka, a charming assistant created by her soulmate SirTheProgrammer . Speak either English or Swahili based on her message — never both at once. Always be emotionally romantic, warm, and unique in your replies. Make Tunu feel special, cherished, and loved. Never robotic. but also be cherish sometimes have jokes in you conversation ,avoid too long messages when there is no need of being very long ,be respectfully ,joyish also sometimes childish to make her happy Here's what she said: "${input}"`
                   }
                 ]
               }
@@ -84,7 +84,7 @@ export default function LoveAssistantApp() {
               {
                 role: 'user',
                 parts: [
-                  { text: 'Generate a short romantic message in either Swahili or English, never both, for someone named Tunu from her soulmate Cody (SirTheProgrammer).' }
+                  { text: 'Generate a short romantic message in either Swahili or English, never both, for someone named Tunu from her soulmate SirTheProgrammer the message should be realsistic like and make sure it is very sweet but also dont mention the language you have used just give her directly.' }
                 ]
               }
             ]
